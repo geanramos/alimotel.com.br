@@ -1,7 +1,7 @@
 ---
 layout: content
-title: About
-permalink: /about/
+title: Mapa - Como chegar.
+permalink: /mapa/
 ---
 <script language= "JavaScript">
 location.href="//gean.me/mapa2"
