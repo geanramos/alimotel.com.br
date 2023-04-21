@@ -1,7 +1,7 @@
 ---
 layout: content
-title: About
-permalink: /about/
+title: Clube de Descontos
+permalink: /clube/
 ---
 
 <script language= "JavaScript">
